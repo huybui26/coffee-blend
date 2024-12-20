@@ -3,7 +3,7 @@
 try{
         define("HOST", "localhost");
 
-        define("DBNAME", "coffee-blend");
+        define("DBNAME", "coffee-blend-main");
 
         
         define("USER", "root");
